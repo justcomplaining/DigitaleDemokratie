@@ -25,10 +25,10 @@ Projekte, die sich für digitale Partizipation an demokratischen Prozessen, Tran
   - *GitHub-Repository:* [FragDenStaat on GitHub](https://github.com/okfde/fragdenstaat_de)
   - *Beschreibung:* Ermöglicht Bürgern Informationsfreiheitsanfragen an Institutionen, um Transparenz von staatlichen Stellen zu fördern.
 
-- **parliament.tv**
-  - *Website:* [parliament.tv](https://www.parliament.tv/)
+- **openparliament.tv**
+  - *Website:* [parliament.tv](https://www.openparliament.tv/)
   - *GitHub-Repository:* *(Nicht verfügbar)*
-  - *Beschreibung:* Ermöglicht den Zugang zu Live-Übertragungen und Archivaufzeichnungen von Parlamentssitzungen für mehr Transparenz.
+  - *Beschreibung:* Ermöglicht den Zugang zu Archivaufzeichnungen von Parlamentssitzungen für mehr Transparenz.
 
 - **kleineAnfragen**
   - *Website:* [kleineAnfragen](https://kleineanfragen.de/)
