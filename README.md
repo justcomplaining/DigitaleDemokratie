@@ -86,10 +86,7 @@ Projekte, die sich für digitale Partizipation an demokratischen Prozessen, Tran
   - *GitHub-Repository:* [Koalitionsträger on GitHub](https://github.com/yetzt/koalitionstraeger)
   - *Beschreibung:* Visualisiert und analysiert Koalitionsverhandlungen für mehr Transparenz im politischen Entscheidungsprozess.
 
-**6. Anfragen und Informationszugang:**
-
-
-**8. Förderung von Entwicklungen in diesen Bereichen:**
+**6. Förderung von Entwicklungen in diesen Bereichen:**
 
 - **Code for Germany**
   - *Website:* [Code for Germany](https://codefor.de/)
