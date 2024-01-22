@@ -97,3 +97,8 @@ Projekte, die sich für digitale Partizipation an demokratischen Prozessen, Tran
   - *Website:* [OKF Deutschland](https://okfn.de/)
   - *GitHub-Repository:* [OKF Deutschland on GitHub](https://github.com/okfde)
   - *Beschreibung:* Setzt sich für offenes Wissen und transparente Daten ein, um Bürgerbeteiligung und Informationsfreiheit zu fördern.
+
+- **Open Government Partnership - Deutschland**
+  - *Website:* [OGP Deutschland](https://www.opengovpartnership.de/)
+  - *GitHub-Repository:* *(Nicht verfügbar)*
+  - *Beschreibung:* Arbeitet an der Umsetzung von offenen Regierungsprinzipien und fördert die Zusammenarbeit zwischen Regierung und Zivil
