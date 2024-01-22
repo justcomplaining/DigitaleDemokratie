@@ -26,8 +26,8 @@ Projekte, die sich für digitale Partizipation an demokratischen Prozessen, Tran
   - *Beschreibung:* Ermöglicht Bürgern Informationsfreiheitsanfragen an Institutionen, um Transparenz von staatlichen Stellen zu fördern.
 
 - **openparliament.tv**
-  - *Website:* [parliament.tv](https://www.openparliament.tv/)
-  - *GitHub-Repository:* *(Nicht verfügbar)*
+  - *Website:* [openparliament.tv](https://www.openparliament.tv/)
+  - *GitHub-Repository:* [OpenParliamentTV on GitHub](https://github.com/OpenParliamentTV)
   - *Beschreibung:* Ermöglicht den Zugang zu Archivaufzeichnungen von Parlamentssitzungen für mehr Transparenz.
 
 - **kleineAnfragen**
