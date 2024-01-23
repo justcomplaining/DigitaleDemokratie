@@ -9,8 +9,8 @@ Projekte, die sich für digitale Partizipation an demokratischen Prozessen, Tran
   - *Beschreibung:* Bietet Einblicke in das politische Geschehen durch Überwachung und direkte Kommunikation mit Abgeordneten über Bürgerfragen.
 
 - **FaceTheFacts**
-  - *Website:* [FaceTheFacts](https://www.facethefacts.de/)
-  - *GitHub-Repository:* *(Nicht verfügbar)*
+  - *Website:* [FaceTheFacts](https://facethefacts.app/)
+  - *GitHub-Repository:* [FaceTheFacts on GitHub](https://github.com/FaceTheFacts/)
   - *Beschreibung:* Fördert den Zugang zu Fakten und Informationen über politische Entwicklungen für eine informierte Bürgerschaft.
 
 - **EveryPolitician**
