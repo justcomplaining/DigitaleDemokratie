@@ -22,7 +22,7 @@ Projekte, die sich für digitale Partizipation an demokratischen Prozessen, Tran
 
 - **OParl**
   - *Website:* [OParl](https://oparl.org/)
-  - *GitHub-Repository:* [OParl on GitHub](https://github.com/OParl)- **Frag den Staat**
+  - *GitHub-Repository:* [OParl on GitHub](https://github.com/OParl)
   - *Beschreibung:* Initiative zur Förderung der Offenheit von parlamentarischen Informationssystemen auf kommunaler Ebene in durch die Schaffung eines einheitlichen Zugriffs auf Ratsinformationssysteme (RIS) über einen Schnittstellen-Standard
 
 - **Frag den Staat**
