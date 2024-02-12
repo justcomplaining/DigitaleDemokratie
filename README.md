@@ -86,11 +86,6 @@ Projekte, die sich für digitale Partizipation an demokratischen Prozessen, Tran
   - *GitHub-Repository:* [OffenesParlament on GitHub](https://github.com/okfde/offenesparlament.de)
   - *Beschreibung:* Fördert die Beteiligung der Bürger am politischen Geschehen durch zugängliche parlamentarische Informationen.
 
-- **Koalitionsträger**
-  - *Website:* [Koalitionsträger](https://koalitionstraeger.de/)
-  - *GitHub-Repository:* [Koalitionsträger on GitHub](https://github.com/yetzt/koalitionstraeger)
-  - *Beschreibung:* Visualisiert und analysiert Koalitionsverhandlungen für mehr Transparenz im politischen Entscheidungsprozess.
-
 **6. Förderung von Entwicklungen in diesen Bereichen:**
 
 - **Code for Germany**
