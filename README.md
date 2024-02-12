@@ -20,14 +20,13 @@ Projekte, die sich für digitale Partizipation an demokratischen Prozessen, Tran
 
 **2. Open Data - Bereitstellung von parlamentarischen Daten:**
 
-- **Frag den Staat**
-  - *Website:* [Frag den Staat](https://fragdenstaat.de/)
-  - *GitHub-Repository:* [FragDenStaat on GitHub](https://github.com/okfde/fragdenstaat_de)
-  - *Beschreibung:* Initiative zur Förderung der Offenheit von parlamentarischen Informationssystemen auf kommunaler Ebene in durch die Schaffung eines einheitlichen Zugriffs auf Ratsinformationssysteme (RIS) über einen Schnittstellen-Standard
-
 - **OParl**
   - *Website:* [OParl](https://oparl.org/)
-  - *GitHub-Repository:* [OParl on GitHub](https://github.com/OParl)
+  - *GitHub-Repository:* [OParl on GitHub](https://github.com/OParl)- **Frag den Staat**
+  - *Beschreibung:* Initiative zur Förderung der Offenheit von parlamentarischen Informationssystemen auf kommunaler Ebene in durch die Schaffung eines einheitlichen Zugriffs auf Ratsinformationssysteme (RIS) über einen Schnittstellen-Standard
+
+ - *Website:* [Frag den Staat](https://fragdenstaat.de/)
+  - *GitHub-Repository:* [FragDenStaat on GitHub](https://github.com/okfde/fragdenstaat_de)
   - *Beschreibung:* Ermöglicht Bürgern Informationsfreiheitsanfragen an Institutionen, um Transparenz von staatlichen Stellen zu fördern.
 
 - **openparliament.tv**
