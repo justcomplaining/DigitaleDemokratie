@@ -8,6 +8,11 @@ Projekte, die sich für digitale Partizipation an demokratischen Prozessen, Tran
   - *GitHub-Repository:* *(Nicht verfügbar)*
   - *Beschreibung:* Bietet Einblicke in das politische Geschehen durch Überwachung und direkte Kommunikation mit Abgeordneten über Bürgerfragen.
 
+- **TheyWorkForYou**
+  - *Website:* [TheyWorkForYou](https://www.theyworkforyou.com/api/)
+  - *GitHub-Repository:* [TheyWorkForYou on GitHub](https://github.com/mysociety/theyworkforyou)
+  - *Beschreibung:* Ähnliches Projekt wie Abgeordnetenwatch für UK
+
 - **FaceTheFacts**
   - *Website:* [FaceTheFacts](https://facethefacts.app/)
   - *GitHub-Repository:* [FaceTheFacts on GitHub](https://github.com/FaceTheFacts/)
