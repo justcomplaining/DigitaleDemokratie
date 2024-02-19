@@ -33,7 +33,7 @@ Projekte, die sich für digitale Partizipation an demokratischen Prozessen, Tran
 - **Alvateli**
   - *Website:* [Alvateli](https://alaveteli.org/)
   - *GitHub-Repository:* [Alaveteli on GitHub](https://github.com/mysociety/alaveteli)
-  - *Beschreibung:* Ermöglicht Bürgern Informationsfreiheitsanfragen an Institutionen, um Transparenz von staatlichen Stellen zu fördern.
+  - *Beschreibung:* OpenSource Software für Informationsfreiheitsanfragen
 
 - **openparliament.tv**
   - *Website:* [openparliament.tv](https://www.openparliament.tv/)
