@@ -89,12 +89,20 @@ Projekte, die sich für digitale Partizipation an demokratischen Prozessen, Tran
   - *GitHub-Repository:* *(Nicht verfügbar)*
   - *Beschreibung:* Unterstützt Bürger dabei, politische Entwicklungen zu verfolgen und politische Entscheidungen zu beeinflussen.
 
+- **VoteSwiper**
+  - *Lizenz:* veröffentlicht aber proprietär; mglw. in der Zukunft OpenSource, siehe GithubIssue zu f-droid
+ - *Beschreibung:* App als Alternative zum Wahl-o-Mat der BpB mit abweichenden Fragen
+
 **5. Informationen und Datenanalysen:**
 
 - **OffenesParlament**
   - *Website:* [OffenesParlament](https://offenesparlament.de/)
   - *GitHub-Repository:* [OffenesParlament on GitHub](https://github.com/okfde/offenesparlament.de)
   - *Beschreibung:* Fördert die Beteiligung der Bürger am politischen Geschehen durch zugängliche parlamentarische Informationen.
+
+- **Qual-O-Mat**
+  - *GitHub-Repository:* [Qual o mat on GitHub]https://github.com/gockelhahn/qual-o-mat-data
+  - *Beschreibung:* Rohdaten aus dem Wahl-o-Mat der BpB in strukturierter, maschinenlesbarer Form und (in anderen Repositories des Nutzers) Tools zur Umwandlung und Analyse
 
 **6. Förderung von Entwicklungen in diesen Bereichen:**
 
