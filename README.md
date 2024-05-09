@@ -91,7 +91,7 @@ Projekte, die sich für digitale Partizipation an demokratischen Prozessen, Tran
 
 - **VoteSwiper**
   - *Lizenz:* veröffentlicht aber proprietär; mglw. in der Zukunft OpenSource, siehe GithubIssue zu f-droid
- - *Beschreibung:* App als Alternative zum Wahl-o-Mat der BpB mit abweichenden Fragen
+  - *Beschreibung:* App als Alternative zum Wahl-o-Mat der BpB mit abweichenden Fragen
 
 **5. Informationen und Datenanalysen:**
 
@@ -101,7 +101,7 @@ Projekte, die sich für digitale Partizipation an demokratischen Prozessen, Tran
   - *Beschreibung:* Fördert die Beteiligung der Bürger am politischen Geschehen durch zugängliche parlamentarische Informationen.
 
 - **Qual-O-Mat**
-  - *GitHub-Repository:* [Qual o mat on GitHub]https://github.com/gockelhahn/qual-o-mat-data
+  - *GitHub-Repository:* [Qual o mat on GitHub](https://github.com/gockelhahn/qual-o-mat-data)
   - *Beschreibung:* Rohdaten aus dem Wahl-o-Mat der BpB in strukturierter, maschinenlesbarer Form und (in anderen Repositories des Nutzers) Tools zur Umwandlung und Analyse
 
 **6. Förderung von Entwicklungen in diesen Bereichen:**
