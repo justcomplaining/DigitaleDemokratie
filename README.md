@@ -55,6 +55,9 @@ Projekte, die sich für digitale Partizipation an demokratischen Prozessen, Tran
   - *GitHub-Repository:* [Bundesgit on GitHub](https://github.com/pschwede/bundesgit)
   - *Beschreibung:* Ermöglicht die kollaborative Entwicklung von Gesetzestexten für partizipative Rechtsnormen.
 
+- **ParlTrack**
+  - *Website:* [parltrack.org](https://parltrack.org/)
+
 **3. Offene Gremienarbeit - Beteiligungsplattformen:**
 
 - **OpenSlides**
