@@ -4,55 +4,55 @@ Projekte, die sich für digitale Partizipation an demokratischen Prozessen, Tran
 **1. Informationen zu und Kommunikation mit Abgeordneten:**
 
 - **Abgeordnetenwatch**
-  - *Website:* [Abgeordnetenwatch](https://www.abgeordnetenwatch.de/)
+  - *Website:* [abgeordnetenwatch.de](https://www.abgeordnetenwatch.de/)
   - *GitHub-Repository:* *(Nicht verfügbar)*
   - *Beschreibung:* Bietet Einblicke in das politische Geschehen durch Überwachung und direkte Kommunikation mit Abgeordneten über Bürgerfragen.
 
 - **TheyWorkForYou**
-  - *Website:* [TheyWorkForYou](https://www.theyworkforyou.com/api/)
-  - *GitHub-Repository:* [TheyWorkForYou on GitHub](https://github.com/mysociety/theyworkforyou)
+  - *Website:* [TheyWorkForYou.com](https://www.theyworkforyou.com/api/)
+  - *GitHub-Repository:* [mysociety/TheyWorkForYou](https://github.com/mysociety/theyworkforyou)
   - *Beschreibung:* Ähnliches Projekt wie Abgeordnetenwatch für UK
 
 - **FaceTheFacts**
-  - *Website:* [FaceTheFacts](https://facethefacts.app/)
-  - *GitHub-Repository:* [FaceTheFacts on GitHub](https://github.com/FaceTheFacts/)
+  - *Website:* [FaceTheFacts.app](https://facethefacts.app/)
+  - *GitHub-Repository:* [FaceTheFacts](https://github.com/FaceTheFacts/)
   - *Beschreibung:* Fördert den Zugang zu Fakten und Informationen über politische Entwicklungen für eine informierte Bürgerschaft.
 
 - **EveryPolitician**
-  - *Website:* [EveryPolitician](https://everypolitician.org/)
-  - *GitHub-Repository:* [EveryPolitician on GitHub](https://github.com/everypolitician/everypolitician-data)
+  - *Website:* [EveryPolitician.org](https://everypolitician.org/)
+  - *GitHub-Repository:* [EveryPolitician](https://github.com/everypolitician/everypolitician-data)
   - *Beschreibung:* Sammelt und teilt weltweit politische Vertreterdaten für transparente politische Informationen.
 
 **2. Open Data - Bereitstellung von parlamentarischen Daten:**
 
 - **OParl**
   - *Website:* [OParl](https://oparl.org/)
-  - *GitHub-Repository:* [OParl on GitHub](https://github.com/OParl)
+  - *GitHub-Repository:* [OParl](https://github.com/OParl)
   - *Beschreibung:* Initiative zur Förderung der Offenheit von parlamentarischen Informationssystemen auf kommunaler Ebene in durch die Schaffung eines einheitlichen Zugriffs auf Ratsinformationssysteme (RIS) über einen Schnittstellen-Standard
 
 - **Frag den Staat**
-  - *Website:* [Frag den Staat](https://fragdenstaat.de/)
-  - *GitHub-Repository:* [FragDenStaat on GitHub](https://github.com/okfde/fragdenstaat_de)
+  - *Website:* [FragdenStaat.de](https://fragdenstaat.de/)
+  - *GitHub-Repository:* [okfde/FragDenStaat on GitHub](https://github.com/okfde/fragdenstaat_de)
   - *Beschreibung:* Ermöglicht Bürgern Informationsfreiheitsanfragen an Institutionen, um Transparenz von staatlichen Stellen zu fördern.
 
 - **Alvateli**
-  - *Website:* [Alvateli](https://alaveteli.org/)
-  - *GitHub-Repository:* [Alaveteli on GitHub](https://github.com/mysociety/alaveteli)
+  - *Website:* [Alvateli.org](https://alaveteli.org/)
+  - *GitHub-Repository:* [mysociety/Alaveteli](https://github.com/mysociety/alaveteli)
   - *Beschreibung:* OpenSource Software für Informationsfreiheitsanfragen
 
 - **openparliament.tv**
   - *Website:* [openparliament.tv](https://www.openparliament.tv/)
-  - *GitHub-Repository:* [OpenParliamentTV on GitHub](https://github.com/OpenParliamentTV)
+  - *GitHub-Repository:* [OpenParliamentTV](https://github.com/OpenParliamentTV)
   - *Beschreibung:* Ermöglicht den Zugang zu Archivaufzeichnungen von Parlamentssitzungen für mehr Transparenz.
 
 - **kleineAnfragen**
-  - *Website:* [kleineAnfragen](https://kleineanfragen.de/)
-  - *GitHub-Repository:* [kleineAnfragen on GitHub](https://github.com/okfde/kleineanfragen)
+  - *Website:* [kleineAnfragen.de](https://kleineanfragen.de/)
+  - *GitHub-Repository:* [okfde/kleineAnfragen](https://github.com/okfde/kleineanfragen)
   - *Beschreibung:* Bietet Zugang zu Anfragen an deutsche Parlamente und ermöglicht die Suche nach Informationen.
 
 - **Bundesgit**
-  - *Website:* [Bundesgit](https://bundesgit.de/)
-  - *GitHub-Repository:* [Bundesgit on GitHub](https://github.com/pschwede/bundesgit)
+  - *Website:* [Bundesgit.de](https://bundesgit.de/)
+  - *GitHub-Repository:* [pschwede/bundesgit](https://github.com/pschwede/bundesgit)
   - *Beschreibung:* Ermöglicht die kollaborative Entwicklung von Gesetzestexten für partizipative Rechtsnormen.
 
 - **ParlTrack**
