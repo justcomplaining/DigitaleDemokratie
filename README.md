@@ -83,12 +83,12 @@ Projekte, die sich für digitale Partizipation an demokratischen Prozessen, Tran
 **4. Apps zur Abstimmung und Diskussion politischer Entscheidungen und Debatten:**
 
 - **Democracy**
-  - *Website:* [Democracy](https://democracy-app.de/)
+  - *Website:* [Democracy-App.de](https://democracy-app.de/)
   - *GitHub-Repository:* [Democracy on GitHub](https://github.com/demokratie-live/democracy)
   - *Beschreibung:* Plattform für Bürgerbeteiligung an politischen Entscheidungsprozessen und Dialog zwischen Bürgern und Politikern.
 
 - **PolitPro**
-  - *Website:* [PolitPro](https://politpro.de/)
+  - *Website:* [PolitPro.de](https://politpro.de/)
   - *GitHub-Repository:* *(Nicht verfügbar)*
   - *Beschreibung:* Unterstützt Bürger dabei, politische Entwicklungen zu verfolgen und politische Entscheidungen zu beeinflussen.
 
@@ -99,27 +99,27 @@ Projekte, die sich für digitale Partizipation an demokratischen Prozessen, Tran
 **5. Informationen und Datenanalysen:**
 
 - **OffenesParlament**
-  - *Website:* [OffenesParlament](https://offenesparlament.de/)
-  - *GitHub-Repository:* [OffenesParlament on GitHub](https://github.com/okfde/offenesparlament.de)
+  - *Website:* [OffenesParlament.de](https://offenesparlament.de/)
+  - *GitHub-Repository:* [okfde/OffenesParlament](https://github.com/okfde/offenesparlament.de)
   - *Beschreibung:* Fördert die Beteiligung der Bürger am politischen Geschehen durch zugängliche parlamentarische Informationen.
 
 - **Qual-O-Mat**
-  - *GitHub-Repository:* [Qual o mat on GitHub](https://github.com/gockelhahn/qual-o-mat-data)
+  - *GitHub-Repository:* [gockelhahn/qual-o-mat](https://github.com/gockelhahn/qual-o-mat-data)
   - *Beschreibung:* Rohdaten aus dem Wahl-o-Mat der BpB in strukturierter, maschinenlesbarer Form und (in anderen Repositories des Nutzers) Tools zur Umwandlung und Analyse
 
 **6. Förderung von Entwicklungen in diesen Bereichen:**
 
 - **Code for Germany**
-  - *Website:* [Code for Germany](https://codefor.de/)
-  - *GitHub-Repository:* [Code for Germany on GitHub](https://github.com/okfde/codefor.de)
+  - *Website:* [codefor.de](https://codefor.de/)
+  - *GitHub-Repository:* [okfde/codefor.de](https://github.com/okfde/codefor.de)
   - *Beschreibung:* Fördert den Einsatz von Technologie für bürgernahe
 
 - **Open Knowledge Foundation Deutschland**
-  - *Website:* [OKF Deutschland](https://okfn.de/)
-  - *GitHub-Repository:* [OKF Deutschland on GitHub](https://github.com/okfde)
+  - *Website:* [okfn.de](https://okfn.de/)
+  - *GitHub-Repository:* [okfde](https://github.com/okfde)
   - *Beschreibung:* Setzt sich für offenes Wissen und transparente Daten ein, um Bürgerbeteiligung und Informationsfreiheit zu fördern.
 
 - **Open Government Partnership - Deutschland**
-  - *Website:* [OGP Deutschland](https://www.opengovpartnership.de/)
+  - *Website:* [opengovpartnership.de](https://www.opengovpartnership.de/)
   - *GitHub-Repository:* *(Nicht verfügbar)*
   - *Beschreibung:* Arbeitet an der Umsetzung von offenen Regierungsprinzipien und fördert die Zusammenarbeit zwischen Regierung und Zivil
